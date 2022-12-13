@@ -83,3 +83,4 @@ clear.addEventListener('click', () => {
     e.preventDefault();
     resultSearch.innerHTML = '';
 });
+
