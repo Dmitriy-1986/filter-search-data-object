@@ -2,35 +2,35 @@
 
 let data = [
     {
-        name: 'Vasa',
+        name: 'Іванов Іван Іванович',
         age: '01.01.1975',
         service: 'ДПСУ'
     }, {
-        name: 'Alex',
+        name: 'Іванов Іван Іванович',
         age: '01.01.1976',
         service: 'НПУ'
     }, {
-        name: 'John',
+        name: 'Петров Петро Петрович',
         age: '01.01.1981',
         service: 'НПУ'
     }, {
-        name: 'Petya',
+        name: 'Петров Петро Петрович',
         age: '01.01.1977',
         service: 'ДПСУ'
     }, {
-        name: 'Oleg',
+        name: 'Іванов Іван Іванович',
         age: '01.01.1981',
         service: 'СБУ'
     }, {
-        name: 'Petya',
+        name: 'Петров Петро Петрович',
         age: '01.01.1977',
         service: 'СБУ'
     }, {
-        name: 'Inokentiy',
+        name: 'Іванов Іван Іванович',
         age: '01.01.1981',
         service: 'ЗСУ'
     }, {
-        name: 'Maxim',
+        name: 'Петров Петро Петрович',
         age: '01.01.1977',
         service: 'ЗСУ'
     }
